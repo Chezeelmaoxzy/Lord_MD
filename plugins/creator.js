@@ -12,7 +12,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 
 📮 *Note:*
 • Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
+• Owner berhak blokir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
 • No Telp`
@@ -20,14 +20,14 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *Nama RP:* Ammar
-${htjava} *Nama RL:* Executed
-${htjava} *Umur:* 14 Tahun
-${htjava} *Kelas:* 8 Smp
-${htjava} *Status:* Solo
+${htjava} *Nama RP:* Azmy
+${htjava} *Nama RL:* wangsaffbot developer 
+${htjava} *Umur:* 15 tahun
+${htjava} *Kelas:* SMP
+${htjava} *Status:* JANGAN SPAM OWNER !
 
-${htjava} *Ulang Tahun:* 16 june 2008
-${htjava} *Alamat:* Indonesia, jawa tengah, semarang
+${htjava} *tanggal lahir:* 1 june 2008
+${htjava} *tinggal di:* Indonesia, sulawesi tengah
 ${htjava} *Skills:* 
 > JavaScript [10.7%]
 > Python [81.4%]
